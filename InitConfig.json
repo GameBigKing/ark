@@ -6,5 +6,6 @@
 	"payUrl":"https://gamez.arakr.com:20100",
 	"ossUrl":"http://zyoss.arakb.com/games/",
 	"ossUrlZip":"http://zyoss.arakc.com/games/",
-	"ForceUpdateUrl":"https://www.arkdmn.com/"
+	"ForceUpdateUrl":"https://www.arkdmn.com/",
+	"shareLink":"https://www.arkdgame.com"
 }
