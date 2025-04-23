@@ -7,7 +7,16 @@
 	"ossUrl":"http://zyoss.arakb.com/games/",
 	"ossUrlZip":"http://zyoss.arakc.com/games/",
 	"ForceUpdateUrl":"https://www.arkdmn.com/",
-	"shareLink":"https://www.arkdgame.com",
+	"shareLink":
+	{
+		"default":"https://www.arkdgame.com",
+		"009010":"https://www.arkfgame.com",
+		"009013":"https://www.arkfgame.com",
+		"009018":"https://www.arkfgame.com",
+		"009020":"https://www.arkfgame.com",
+		"009024":"https://www.arkfgame.com",
+		"009036":"https://www.arkfgame.com"
+	},
 	"followAccountWA":"https://whatsapp.com/channel/0029ValZAXFBqbrCwuC7kr2u",
 	"followAccountTG":"https://t.me/Arkdominovip",
 	"followAccountFB":"https://www.facebook.com/profile.php?id=61559062977645"
